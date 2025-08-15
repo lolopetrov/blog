@@ -1,12 +1,12 @@
-\-\--
+---
 
 layout: post
 
-title: \"Mi siguente post\"
+title: "Mi siguente post"
 
 date: 2025-08-15
 
-\-\--
+---
 
 otra entrada de post
 

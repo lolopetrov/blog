@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: "Mi siguente post"
+title: "Mi siguente de ost"
 date: 2025-08-15
 
 ---

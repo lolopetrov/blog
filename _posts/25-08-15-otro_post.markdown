@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Second Jekyll!"
-date:   2025-08-15 20:18:29 +0200
+date:   2025-08-15 
 categories: jekyll update
 ---
 

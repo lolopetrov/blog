@@ -30,7 +30,7 @@ url: "https://github.com/lolopetrov/blog/" # the base hostname & protocol for yo
 
 twitter_username: jekyllrb
 github_username:  jekyll
-ipfs_usrname: <img src="https://bafybeifvvqgjdgcuqfqberkss4jctwmkzwj25se25ys2s4gfe4ycbbwxp4.ipfs.w3s.link/btc_digital_gold_100k.png" alt="Mi imagen" style="width:30%;">
+
 
 # Build settings
 theme: minima

@@ -8,8 +8,10 @@ date: 2025-08-15
 ---
 
 ---
+<img src="https://bafybeifvvqgjdgcuqfqberkss4jctwmkzwj25se25ys2s4gfe4ycbbwxp4.ipfs.w3s.link/btc_digital_gold_100k.png" alt="Mi imagen" style="width:50%;">
 
-![BTC digital gold by www.btctoday100k.com](https://bafybeifvvqgjdgcuqfqberkss4jctwmkzwj25se25ys2s4gfe4ycbbwxp4.ipfs.w3s.link/btc_digital_gold_100k.png)
+<img src="https://bafybeifvvqgjdgcuqfqberkss4jctwmkzwj25se25ys2s4gfe4ycbbwxp4.ipfs.w3s.link/btc_digital_gold_100k.png  " alt="Mi imagen" style="width:500px; display:block; margin:auto;">
+
 
 otra entrada de post
 

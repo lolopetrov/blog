@@ -26,7 +26,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "https://github.com/lolopetrov/blog/" # the base hostname & protocol for your site, e.g. http://example.com
-ipfs_gateway: "https://ipfs.w3s.link/ipfs/"
+
+<img src="https://bafybeifvvqgjdgcuqfqberkss4jctwmkzwj25se25ys2s4gfe4ycbbwxp4.ipfs.w3s.link/btc_digital_gold_100k.png" alt="Mi imagen" style="width:30%;">
 twitter_username: jekyllrb
 github_username:  jekyll
 

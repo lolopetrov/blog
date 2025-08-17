@@ -9,7 +9,7 @@ date: 2025-08-15
 
 ---
 
-![Descripción de la imagen](https://bafybeifvvqgjdgcuqfqberkss4jctwmkzwj25se25ys2s4gfe4ycbbwxp4.ipfs.w3s.link)
+![Descripción de la imagen](https://bafybeifvvqgjdgcuqfqberkss4jctwmkzwj25se25ys2s4gfe4ycbbwxp4.ipfs.w3s.link/btc_digital_gold_100k.png)
 
 otra entrada de post
 

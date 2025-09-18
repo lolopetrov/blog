@@ -4,7 +4,7 @@ title: btctoday100k
 permalink: /about/
 ---
 
-![Bitcoin Digital Gold](https://bafybeifvvqgjdgcuqfqberkss4jctwmkzwj25se25ys2s4gfe4ycbbwxp4.ipfs.w3s.link/btc_digital_gold_100k.png)
+![Bitcoin удря 100к на 5 декември 2024](https://bafybeieylu4daz6z4piepkwurxno35osar56j2zk3nk5aw43dg6dd2r334.ipfs.w3s.link/btc_reached_100k.png)
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)

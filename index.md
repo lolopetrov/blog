@@ -1,9 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: "BTC 100K – Блог"
 ---
 
-
-Una prueba minima
+Добре дошли в **BTC Today 100K** – тук споделяме анализи, прогнози и идеи за Биткойн и бъдещето на парите.

@@ -1,5 +1,5 @@
 ---
-layout: pege
+layout: page
 title: Hello
 permalink: /hello/
 ---

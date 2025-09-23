@@ -1,0 +1,24 @@
+---
+layout: default
+title: BTC ↔ BGN
+---
+<div class="card">
+  <h2>💰 Котировка BTC ↔ BGN</h2>
+  <p class="price" id="btc-bgn">Зареждане...</p>
+  <p id="bgn-btc"></p>
+
+  <div class="btn-group">
+    <button onclick="fetchChart(1)">24 часа</button>
+    <button onclick="fetchChart(7)">7 дни</button>
+    <button onclick="fetchChart(30)">30 дни</button>
+  </div>
+
+  <canvas id="btcChart"></canvas>
+</div>
+
+<div class="calculator">
+  <h2>Калкулатор BTC ↔ BGN</h2>
+  <input type="number" id="bgnInput" placeholder="Сума в BGN" oninput="convertToBTC()">
+  <input type="number" id="btcInput" placeholder="Сума в BTC" oninput="convertToBGN()">
+  <p class="calc-result" id="calcResult">Въведи сума за изчисление</p>
+</div>

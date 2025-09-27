@@ -33,6 +33,11 @@ twitter_username: btctoday100k
 author: "mranpetrov"
 author_url: "mranpetrov"
 
+projects:
+  title: "Наши проекти"
+  url: "/projects/"
+
+
 
 
 

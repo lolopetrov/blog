@@ -1,0 +1,39 @@
+---
+layout: default
+title: Emisión de NFT en Ravencoin
+permalink: /nft/mint.html
+---
+
+<section class="container">
+  <h1>Emisión de NFTs (Ravencoin)</h1>
+  <ol>
+    <li><strong>Prepara tu “Main Asset”</strong> (una sola vez): por ejemplo <code>BTCTODAY100K</code>. Crear el asset raíz quema ~500 RVN. </li>
+    <li><strong>Sube contenido a IPFS</strong> (imagen y metadata JSON). Guarda los CIDs (<code>ipfs://...</code>).</li>
+    <li><strong>Minta el NFT como Unique Asset</strong> bajo tu raíz, por ejemplo:<br>
+      <code>BTCTODAY100K#ALU-2025-10-LOT001</code> (cuesta ~5 RVN por NFT).</li>
+    <li><strong>Incluye el IPFS hash</strong> al crear el asset (o re-emite si tu root es re-emitable).</li>
+    <li><strong>Envía el NFT</strong> a la wallet del destinatario y publica el enlace del explorador.</li>
+  </ol>
+
+  <h2>Plantilla de metadata (JSON)</h2>
+  <pre>{
+  "name": "BTCTODAY100K#ALU-2025-10-LOT001",
+  "description": "Lote aluminio reciclado, 1.000 kg. Certificado NFT en Ravencoin.",
+  "image": "ipfs://CID_DE_IMAGEN",
+  "external_url": "https://www.btctoday100k.com/nft/",
+  "attributes": [
+    {"trait_type":"lote","value":"ALU-2025-10-LOT001"},
+    {"trait_type":"peso_kg","value":1000},
+    {"trait_type":"fecha","value":"2025-10-11"},
+    {"trait_type":"ubicacion","value":"Madrid, ES"},
+    {"trait_type":"origen","value":"latas de refresco"}
+  ],
+  "proof": {
+    "foto_lote": "ipfs://CID_FOTO",
+    "documento_peso": "ipfs://CID_DOC_PESO"
+  }
+}</pre>
+
+  <h2>Esquema de nombres recomendado</h2>
+  <p><code>BTCTODAY100K#ALU-AAAA-MM-LOT###</code> (único por protocolo).</p>
+</section>

@@ -37,7 +37,7 @@ footer { font-size: 13px; color: #666; }
 <script>
 async function loadPrice() {
   try {
-    const res = await fetch("https://price.jup.ag/v4/price?ids=8L8k9C6eZv8EXw4rZkMvKqXfgZhKa94bQJz2G4F6ZxDU");
+    const res = await fetch("https://price.jup.ag/v4/price?ids=ELPrcU7qRV3DUz8AP6siTE7GkR3gkkBvGmgBRiLnC19Y");
     const data = await res.json();
     const usd = data.data["8L8k9C6eZv8EXw4rZkMvKqXfgZhKa94bQJz2G4F6ZxDU"].price;
     document.getElementById("price").textContent = `$${usd.toFixed(6)} USD`;

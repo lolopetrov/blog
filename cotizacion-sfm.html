@@ -1,88 +1,52 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Cotización SFM en tiempo real</title>
-  <meta name="description" content="Cotización actualizada en tiempo real de SafeMoon (SFM) en USD.">
-  <style>
-    :root {
-      --bg: #fafafa;
-      --card: #ffffff;
-      --ink: #222;
-      --muted: #666;
-      --accent: #f7931a;
-      --up: #1f8a5f;
-      --down: #d33;
-    }
-    body {
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Arial;
-      background: var(--bg);
-      color: var(--ink);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-    .card {
-      background: var(--card);
-      border-radius: 14px;
-      box-shadow: 0 8px 22px rgba(0,0,0,.08);
-      border: 1px solid rgba(0,0,0,.05);
-      padding: 24px 32px;
-      text-align: center;
-      max-width: 360px;
-      width: 90%;
-    }
-    .card h1 {
-      font-size: 22px;
-      margin: 0 0 10px;
-      color: var(--accent);
-    }
-    .price {
-      font-size: 26px;
-      font-weight: 700;
-      margin: 8px 0;
-    }
-    .change {
-      font-size: 15px;
-      margin-top: 6px;
-    }
-    .up { color: var(--up); }
-    .down { color: var(--down); }
-    footer {
-      margin-top: 16px;
-      font-size: 13px;
-      color: var(--muted);
-    }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cotización SFM (Solana)</title>
+<style>
+body {
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto;
+  background: #fafafa;
+  color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.card {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 8px 22px rgba(0,0,0,.08);
+  border: 1px solid rgba(0,0,0,.05);
+  padding: 24px 32px;
+  text-align: center;
+}
+.card h1 { font-size: 22px; color: #f7931a; margin-bottom: 10px; }
+.price { font-size: 26px; font-weight: 700; margin: 10px 0; }
+footer { font-size: 13px; color: #666; }
+</style>
 </head>
 <body>
-  <div class="card">
-    <h1>💰 SafeMoon (SFM)</h1>
-    <div id="price" class="price">Cargando...</div>
-    <div id="change" class="change"></div>
-    <footer>Actualización cada 60 s vía CoinGecko</footer>
-  </div>
+<div class="card">
+  <h1>💰 SafeMoon (SFM)</h1>
+  <div id="price" class="price">Cargando...</div>
+  <footer>Fuente: Jupiter (Solana)</footer>
+</div>
 
-  <script>
-    async function loadPrice() {
-      try {
-        const res = await fetch("https://api.coingecko.com/api/v3/coins/safemoon");
-        const data = await res.json();
-        const usd = data.market_data.current_price.usd;
-        const change = data.market_data.price_change_percentage_24h;
-        const trend = change >= 0 ? "up" : "down";
-        document.getElementById("price").innerHTML = `$${usd.toLocaleString(undefined, {minimumFractionDigits: 6})}`;
-        document.getElementById("change").innerHTML = `<span class="${trend}">${change.toFixed(2)}% en 24h</span>`;
-      } catch (e) {
-        document.getElementById("price").textContent = "Error al obtener datos";
-        document.getElementById("change").textContent = "";
-      }
-    }
-    loadPrice();
-    setInterval(loadPrice, 60000);
-  </script>
+<script>
+async function loadPrice() {
+  try {
+    const res = await fetch("https://price.jup.ag/v4/price?ids=8L8k9C6eZv8EXw4rZkMvKqXfgZhKa94bQJz2G4F6ZxDU");
+    const data = await res.json();
+    const usd = data.data["8L8k9C6eZv8EXw4rZkMvKqXfgZhKa94bQJz2G4F6ZxDU"].price;
+    document.getElementById("price").textContent = `$${usd.toFixed(6)} USD`;
+  } catch (e) {
+    document.getElementById("price").textContent = "Error al obtener datos";
+  }
+}
+loadPrice();
+setInterval(loadPrice, 60000);
+</script>
 </body>
 </html>

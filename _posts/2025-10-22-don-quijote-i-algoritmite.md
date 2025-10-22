@@ -1,4 +1,11 @@
+---
 
+layout: post
+title: "Don Quijote и алгоритмите"
+date: 2025-10-22
+
+
+---
 
 # Don Quijote и алгоритмите
 

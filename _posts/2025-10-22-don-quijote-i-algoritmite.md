@@ -39,7 +39,6 @@ date: 2025-10-22
 
 **Step by step 75-49-25**
 
-<!-- NFT vinculado al artículo -->
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px 16px;margin:16px 0;">
   <strong>🎴 NFT oficial (1/1):</strong>
   <div style="margin-top:6px;line-height:1.6;">

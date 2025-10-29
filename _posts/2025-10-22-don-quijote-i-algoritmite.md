@@ -42,27 +42,27 @@ date: 2025-10-22
 <!-- NFT vinculado al artículo -->
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:14px 16px;margin:16px 0;">
   <strong>🎴 NFT oficial (1/1):</strong>
-  <div style="margin-top:6px;line-height:1.5;">
-    🔗 <a href="https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1" target="_blank" rel="noopener">Ver en Polygonscan (Token ID 1)</a>
-    <br>
+  <div style="margin-top:6px;line-height:1.6;">
+    🔗 <a href="https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1" target="_blank" rel="noopener">Ver en Polygonscan (Token ID 1)</a><br>
     📄 <a href="https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR" target="_blank" rel="noopener">Metadata en IPFS</a><br>
     🌐 <a href="https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html" target="_blank" rel="noopener">Este artículo (enlace canónico)</a>
   </div>
 </div>
 
-<!-- Marcado opcional para buscadores -->
+{% raw %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
   "name": "Don Quijote и алгоритмите",
+  "headline": "Don Quijote и алгоритмите",
   "inLanguage": "bg",
   "datePublished": "2025-10-22",
-  "author": {"@type": "Person", "name": "mranpetrov"},
+  "author": { "@type": "Person", "name": "mranpetrov" },
   "sameAs": [
     "https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1",
     "https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR"
-  ],
-  "headline": "Don Quijote и алгоритмите"
+  ]
 }
 </script>
+{% endraw %}

@@ -38,45 +38,39 @@ date: 2025-10-22
 Стълбата при биткойн в обозримо бъдеще до октомври 2026 година е 75-49-25 
 
 **Step by step 75-49-25**
-
-<!-- Tarjeta visual del NFT -->
-<div style="border:1px solid #e5e7eb;border-radius:14px;padding:18px;margin:24px 0;background:#fafafa;max-width:600px;">
-  <div style="display:flex;flex-direction:row;align-items:center;gap:14px;">
-    <img src="https://ipfs.io/ipfs/QmeFo9znsnmRfqfpEfMRA4EuaDcd1hGVYidKUPNihTE8Ng" alt="Don Quijote i Algoritmite NFT" style="width:120px;height:120px;border-radius:10px;object-fit:cover;">
-    <div style="flex:1;">
-      <h3 style="margin:0;font-size:1.1rem;">🎴 Don Quijote i Algoritmite — NFT 1/1</h3>
-      <p style="margin:6px 0 10px;font-size:0.9rem;line-height:1.4;">
-        Obra única on-chain vinculada al artículo filosófico publicado en BTCtoday100k.com.
-      </p>
-      <p style="margin:0;line-height:1.6;font-size:0.9rem;">
-        🔗 <a href="https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1" target="_blank" rel="noopener">Ver en Polygonscan</a><br>
-        📄 <a href="https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR" target="_blank" rel="noopener">Metadata en IPFS</a><br>
-        🌐 <a href="https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html" target="_blank" rel="noopener">Artículo original</a>
-      </p>
-    </div>
-  </div>
+<!-- Card de enlaces -->
+<div style="border:1px solid #e5e7eb;border-radius:14px;padding:18px;margin:24px 0;background:#fafafa;max-width:680px;">
+  <h3 style="margin:0 0 8px;">🎴 Don Quijote i Algoritmite — NFT 1/1</h3>
+  <p style="margin:0 0 10px;font-size:0.95rem;line-height:1.5;">
+    Obra única on-chain vinculada al artículo filosófico publicado en BTCtoday100k.com.
+  </p>
+  <p style="margin:0;line-height:1.7;font-size:0.95rem;">
+    🔗 <a href="https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1" target="_blank" rel="noopener">Ver en Polygonscan (Token ID 1)</a><br>
+    📄 <a href="https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR" target="_blank" rel="noopener">Metadata en IPFS</a><br>
+    🌐 <a href="https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html" target="_blank" rel="noopener">Artículo original</a>
+  </p>
 </div>
 
-{% raw %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
-  "name": "Don Quijote и алгоритмите",
-  "headline": "Don Quijote и алгоритмите",
-  "inLanguage": "bg",
-  "datePublished": "2025-10-22",
-  "author": {
-    "@type": "Person",
-    "name": "mranpetrov"
+{% assign ld = {
+  "@context":"https://schema.org",
+  "@type":"CreativeWork",
+  "name":"Don Quijote и алгоритмите",
+  "headline":"Don Quijote и алгоритмите",
+  "inLanguage":"bg",
+  "datePublished":"2025-10-22",
+  "author":{
+    "@type":"Person",
+    "name":"mranpetrov"
   },
-  "image": "ipfs://QmeFo9znsnmRfqfpEfMRA4EuaDcd1hGVYidKUPNihTE8Ng",
-  "sameAs": [
+  "image":"ipfs://QmeFo9znsnmRfqfpEfMRA4EuaDcd1hGVYidKUPNihTE8Ng",
+  "sameAs":[
     "https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1",
     "https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR",
     "https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html"
   ]
-}
+} %}
+
+<script type="application/ld+json">
+{{ ld | jsonify }}
 </script>
-{% endraw %}
 

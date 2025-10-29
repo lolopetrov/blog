@@ -47,7 +47,7 @@ Obra única on-chain vinculada al artículo filosófico publicado en BTCtoday100
 🌐 <a href="https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html" target="_blank">Artículo original</a>
 </p>
 
-🌐 Artículo original
+
 
 
 

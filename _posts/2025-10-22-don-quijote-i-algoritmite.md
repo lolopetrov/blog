@@ -38,39 +38,10 @@ date: 2025-10-22
 Стълбата при биткойн в обозримо бъдеще до октомври 2026 година е 75-49-25 
 
 **Step by step 75-49-25**
-<!-- Card de enlaces -->
-<div style="border:1px solid #e5e7eb;border-radius:14px;padding:18px;margin:24px 0;background:#fafafa;max-width:680px;">
-  <h3 style="margin:0 0 8px;">🎴 Don Quijote i Algoritmite — NFT 1/1</h3>
-  <p style="margin:0 0 10px;font-size:0.95rem;line-height:1.5;">
-    Obra única on-chain vinculada al artículo filosófico publicado en BTCtoday100k.com.
-  </p>
-  <p style="margin:0;line-height:1.7;font-size:0.95rem;">
-    🔗 <a href="https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1" target="_blank" rel="noopener">Ver en Polygonscan (Token ID 1)</a><br>
-    📄 <a href="https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR" target="_blank" rel="noopener">Metadata en IPFS</a><br>
-    🌐 <a href="https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html" target="_blank" rel="noopener">Artículo original</a>
-  </p>
-</div>
 
-{% assign ld = {
-  "@context":"https://schema.org",
-  "@type":"CreativeWork",
-  "name":"Don Quijote и алгоритмите",
-  "headline":"Don Quijote и алгоритмите",
-  "inLanguage":"bg",
-  "datePublished":"2025-10-22",
-  "author":{
-    "@type":"Person",
-    "name":"mranpetrov"
-  },
-  "image":"ipfs://QmeFo9znsnmRfqfpEfMRA4EuaDcd1hGVYidKUPNihTE8Ng",
-  "sameAs":[
-    "https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1",
-    "https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR",
-    "https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html"
-  ]
-} %}
 
-<script type="application/ld+json">
-{{ ld | jsonify }}
-</script>
+<script type="application/ld+json" src="/assets/json/dq-algo.json"></script>
+
+
+
 

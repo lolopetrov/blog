@@ -46,7 +46,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-  include:
+include:
   - assets/json/dq-algo.json
 
 

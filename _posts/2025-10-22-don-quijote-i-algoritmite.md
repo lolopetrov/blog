@@ -49,7 +49,6 @@ Obra única on-chain vinculada al artículo filosófico publicado en BTCtoday100
 
 🌐 Artículo original
 
-{% include dq-algo.jsonld.html %}
 
 
 

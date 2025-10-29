@@ -39,35 +39,31 @@ date: 2025-10-22
 
 **Step by step 75-49-25**
 
-
-<br>
 <hr>
 <h3>🎴 Don Quijote i Algoritmite — NFT 1/1</h3>
 <p>
 Obra única on-chain vinculada al artículo filosófico publicado en BTCtoday100k.com.<br>
-🔗 <a href="https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1" target="_blank">Ver en Polygonscan</a><br>
+🔗 <a href="https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1" target="_blank">Ver en Polygonscan (Token ID 1)</a><br>
 📄 <a href="https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR" target="_blank">Metadata en IPFS</a><br>
 🌐 <a href="https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html" target="_blank">Artículo original</a>
 </p>
 
-{% assign ld = {
-  "@context":"https://schema.org",
-  "@type":"CreativeWork",
-  "name":"Don Quijote и алгоритмите",
-  "headline":"Don Quijote и алгоритмите",
-  "inLanguage":"bg",
-  "datePublished":"2025-10-22",
-  "author":{"@type":"Person","name":"mranpetrov"},
-  "image":"ipfs://QmeFo9znsnmRfqfpEfMRA4EuaDcd1hGVYidKUPNihTE8Ng",
-  "sameAs":[
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Don Quijote и алгоритмите",
+  "headline": "Don Quijote и алгоритмите",
+  "inLanguage": "bg",
+  "datePublished": "2025-10-22",
+  "author": { "@type": "Person", "name": "mranpetrov" },
+  "image": "ipfs://QmeFo9znsnmRfqfpEfMRA4EuaDcd1hGVYidKUPNihTE8Ng",
+  "sameAs": [
     "https://polygonscan.com/token/0xC08ec2b4D565D1c387D9bc83d829E7e290269eC0?a=1",
     "https://ipfs.io/ipfs/QmTuk7Zij8Ni1C25aGyR9UiZV1qVcaecUSifkAjRi2UCfR",
     "https://www.btctoday100k.com/2025/10/22/don-quijote-i-algoritmite.html"
   ]
-} %}
-
-<script type="application/ld+json">
-{{ ld | jsonify }}
+}
 </script>
 
 

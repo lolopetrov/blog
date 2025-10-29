@@ -43,11 +43,11 @@ projects:
 
 # Build settings
 theme: minima
-plugins:
+plugins:        ✅ nivel 0
   - jekyll-feed
-
-include:
+include:        ✅ mismo nivel
   - assets/json/dq-algo.json
+
 
 
 # Exclude from processing.

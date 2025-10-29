@@ -43,9 +43,9 @@ projects:
 
 # Build settings
 theme: minima
-plugins:        ✅ nivel 0
+plugins:        
   - jekyll-feed
-include:        ✅ mismo nivel
+include:        
   - assets/json/dq-algo.json
 
 

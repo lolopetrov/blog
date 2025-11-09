@@ -8,21 +8,22 @@ date: 2025-11-09
 ---
 
 
-<p>Наблюдаваме две графики.</p>
+<p>След наблюдаваме две графики:</p>
 
 <figure>
   <img src="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU"
        alt="EUR/USD 12M Chart"
-       style="width:100%;border:1px solid #444;border-radius:6px;">
+       style="width:100%; max-width:600px; border:1px solid #444; border-radius:6px;">
   <figcaption>EUR/USD 12M — наблюдение на тренда</figcaption>
 </figure>
 
 <figure>
   <img src="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g"
        alt="EUR/CHF 12M Chart"
-       style="width:100%;margin-top:15px;border:1px solid #444;border-radius:6px;">
+       style="width:100%; max-width:600px; margin-top:15px; border:1px solid #444; border-radius:6px;">
   <figcaption>EUR/CHF 12M — визуална обезценка</figcaption>
 </figure>
+
 
 
 -------------------------------------------------------------------

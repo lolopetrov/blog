@@ -12,11 +12,11 @@ date: 2025-11-09
 
 <img src="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU"
      alt="EUR/USD 12M Chart"
-     style="display:block;margin:0 auto;max-width:600px;width:100% !important;border:1px solid #444;border-radius:6px;">
+     class="compactchart">
 
 <img src="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g"
      alt="EUR/CHF 12M Chart"
-     style="display:block;margin:15px auto 0 auto;max-width:600px;width:100% !important;border:1px solid #444;border-radius:6px;">
+     class="compactchart" style="margin-top:15px;">
 
 
 

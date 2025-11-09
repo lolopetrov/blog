@@ -7,9 +7,8 @@ date: 2025-11-09
 
 ---
 
-Наблюдаваме две графики.
 
-<p>След наблюдаваме две графики:</p>
+<p>Наблюдаваме две графики.</p>
 
 <figure>
   <img src="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU"

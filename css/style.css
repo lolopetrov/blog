@@ -73,3 +73,18 @@ canvas {
   font-weight: bold;
   color: #2b6cb0;
 }
+
+.compactchart {
+  display:block;
+  margin:0 auto;
+  max-width:600px !important;
+  width:100% !important;
+  border:1px solid #444;
+  border-radius:6px;
+}
+
+@media (max-width:480px) {
+  .compactchart {
+    max-width:350px !important;
+  }
+}

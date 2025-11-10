@@ -10,13 +10,9 @@ date: 2025-11-09
 
 <p>Наблюдаваме две графики:</p>
 
-<img src="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU"
-     alt="EUR/USD 12M Chart"
-     class="compactchart">
+<img src="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU">
 
-<img src="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g"
-     alt="EUR/CHF 12M Chart"
-     class="compactchart" style="margin-top:15px;">
+<img src="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g">
 
 
 

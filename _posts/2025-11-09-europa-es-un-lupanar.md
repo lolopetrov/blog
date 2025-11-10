@@ -10,10 +10,8 @@ date: 2025-11-09
 
 <p>Наблюдаваме две графики:</p>
 
-<img src="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU">
-
-<img src="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g">
-
+<img class="compactchart" src="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU">
+<img class="compactchart" src="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g">
 
 
 

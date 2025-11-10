@@ -20,6 +20,15 @@ date: 2025-11-09
   <img src="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g?v=1" style="width:100%;height:auto;display:block;">
 </div>
 
+ <p class="small muted" style="text-align:center;margin-top:12px;">
+         <a href="https://ipfs.filebase.io/ipfs/Qmf64cVJTyhHaARhxy2Wbg4euA1hzujsUruTY7zpaMbXvB" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style="color:#7a1f2b;text-decoration:none;">
+        📷 Corte real de referencia (almacenado en IPFS)
+         </a>
+</p>
+
 
 
 

@@ -13,6 +13,9 @@ date: 2025-11-09
 <div style="max-width:600px;margin:0 auto;">
   <img src="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU?v=1" style="width:100%;height:auto;display:block;">
 </div>
+
+<hr>
+
 <div style="max-width:600px;margin:15px auto 0;">
   <img src="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g?v=1" style="width:100%;height:auto;display:block;">
 </div>

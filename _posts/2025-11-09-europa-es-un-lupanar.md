@@ -29,8 +29,18 @@ date: 2025-11-09
          </a>
 </p>
 
+<hr>
 
 
+
+<p class="small muted" style="text-align:center;margin-top:12px;">
+         <a href="https://ipfs.filebase.io/ipfs/QmaM694smBDVgcNvgH3Dj3wTxw56X2H5PdrkSBcVhKvC8g" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style="color:#7a1f2b;text-decoration:none;">
+        📷 EUR/CHF (almacenado en IPFS)
+         </a>
+</p>
 
 
 

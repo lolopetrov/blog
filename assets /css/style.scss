@@ -17,3 +17,11 @@ body {
   border-radius:6px;
 }
 
+/* mobile override (телефони) */
+@media (max-width: 480px) {
+  .compactchart {
+    max-width:350px !important;
+  }
+}
+
+

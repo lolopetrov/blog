@@ -1,38 +1,6 @@
-<!DOCTYPE html>
-<html lang="bg">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+---
+layout: default
+---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SQW7HR6PPS"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  // 🔹 Configuración básica
-  gtag('config', 'G-SQW7HR6PPS', {
-    'send_page_view': true,
-    'anonymize_ip': true
-  });
-
-  // 🔹 Seguimiento entre tus dominios
-  gtag('config', 'G-SQW7HR6PPS', {
-    'linker': {
-      'domains': ['minoxidilbg.com', 'ru58841hair.com', 'btctoday100k.com']
-    }
-  });
-</script>
-
-  
-</head>
-<body>
-  <main style="max-width:900px;margin:20px auto;padding:20px;">
-    {{ content }}
-  </main>
-  <script src="{{ '/js/script.js' | relative_url }}"></script>
-</body>
-</html>
+{% include head-extra.html %}
+{{ content }}

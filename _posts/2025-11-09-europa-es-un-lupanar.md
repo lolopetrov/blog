@@ -21,11 +21,11 @@ date: 2025-11-09
 </div>
 
  <p class="small muted" style="text-align:center;margin-top:12px;">
-         <a href="https://ipfs.filebase.io/ipfs/Qmf64cVJTyhHaARhxy2Wbg4euA1hzujsUruTY7zpaMbXvB" 
+         <a href="https://ipfs.filebase.io/ipfs/QmPCiG77SWzaaqwcQA7kxwS7zqaYfdJyEejygm5kX7KAZU" 
         target="_blank" 
         rel="noopener noreferrer" 
         style="color:#7a1f2b;text-decoration:none;">
-        📷 Corte real de referencia (almacenado en IPFS)
+        📷 EUR/USD (almacenado en IPFS)
          </a>
 </p>
 

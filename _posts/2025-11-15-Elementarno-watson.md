@@ -50,9 +50,7 @@ MSTR това си прилича на пирамида. Купувам # BTC и
         rel="noopener noreferrer" 
         style="color:#7a1f2b;text-decoration:none;">
         📷 NFT #BTC at 25k (almacenado en IPFS)
-         </a>
-
-         </p>
+         </a></p>
 
 Гепи швепса брато, но на 25к за #BTC.  
 

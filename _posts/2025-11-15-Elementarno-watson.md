@@ -62,6 +62,6 @@ Catch the Schweppes bro at 25k for #BTC
 <em>Bitcoin Dada — Buy at 25K till Oct26</em></a>
 </p>
 <p>
-<img src="https://ipfs.io/ipfs/Qmarfd2CmvwYKorydZLnvvR1a5YfGhByFdEi7QuXrVCRgR" alt="Bitcoin Dada" style="max-width:100%;border-radius:10px;">
+<img src="https://ipfs.io/ipfs/Qmarfd2CmvwYKorydZLnvvR1a5YfGhByFdEi7QuXrVCRgR" alt="Bitcoin Dada" style="max-width:50%;border-radius:10px;">
 </p>
 

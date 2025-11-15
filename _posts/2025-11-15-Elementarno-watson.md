@@ -56,9 +56,4 @@ MSTR това си прилича на пирамида. Купувам # BTC и
 
 Catch the Schweppes bro at 25k for #BTC
 
-<hr>
-<p><strong>🎨 NFT asociado:</strong> 
-<a href="https://ipfs.io/ipfs/Qmarfd2CmvwYKorydZLnvvR1a5YfGhByFdEi7QuXrVCRgR" target="_blank">
-<em>Bitcoin Dada — Buy at 25K till Oct26</em></a>
-</p>
 

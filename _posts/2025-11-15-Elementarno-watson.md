@@ -53,6 +53,8 @@ MSTR това си прилича на пирамида. Купувам # BTC и
         📷 NFT #BTC at 25k (almacenado en IPFS)
          </a>
 
+         </p>
+
 Гепи швепса брато, но на 25к за #BTC.  
 
 Catch the Schweppes bro at 25k for #BTC

@@ -13,7 +13,7 @@ tags: [Európedia, Bitcoin, entrepreneurship, philosophy]
 
 <section>
 
-<h2><strong>Изгубеният рай в Европедия</strong></h2>
+
 
 <p><em>Има ли смисъл да се бъхтиш с търговия или предприемачество в Европедия?</em></p>
 

@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Елементарно, Уотсън — Част II"
+title: "Елементарно Уотсън — Част II"
 date: 2025-12-27
 categories: [bitcoin, analysis, statistics]
 tags: [bitcoin, statistics, market-structure, trading, psychology]
 ---
 
-## 🧠 Елементарно, Уотсън — Част II
 
 > 📎 **Част I:**  
 > [Елементарно, Уотсън — Част I](https://www.btctoday100k.com/2025/11/15/Elementarno-watson.html)

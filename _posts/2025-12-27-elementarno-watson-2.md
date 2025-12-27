@@ -53,3 +53,22 @@ tags: [bitcoin, statistics, market-structure, trading, psychology]
 
 Пазарът може да лъже.  
 Цената — никога.
+
+
+---
+
+### 🔐 Blockchain Proof of Publication
+
+This article is cryptographically bound to NFT:
+
+**Contract:** `0xF8C55d72642ee72BfCFBdb162C63D649F6426D9a`  
+**Token ID:** `#2025122701`  
+**Network:** Polygon  
+
+**Transaction:**  
+https://polygonscan.com/tx/0xe56d5b00dba93781589ec77c0ed2cfa5e3b8b2d164363fdc60454bf3cb15b1ac
+
+**Token Explorer:**  
+https://polygonscan.com/token/0xF8C55d72642ee72BfCFBdb162C63D649F6426D9a?a=2025122701
+
+This establishes an immutable timestamp and authorship proof for this publication.

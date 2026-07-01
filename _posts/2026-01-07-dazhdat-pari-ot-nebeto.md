@@ -2,6 +2,7 @@
 layout: post
 title: "Дъждът — пари от небето"
 date: 2026-01-07
+categories: [Evropedia, BGN, Economy, Politics]
 ---
 
 <video controls preload="metadata" style="width:100%;max-width:720px;">

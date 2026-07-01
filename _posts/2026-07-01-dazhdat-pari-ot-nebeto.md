@@ -6,7 +6,7 @@ categories: [Evropedia, BGN, Economy, Politics]
 ---
 
 <video controls preload="metadata" style="width:100%;max-width:720px;">
-  <source src="/assets/video/dajd.mp4" type="video/mp4">
+  <source src="/assets/video/cheshma_sof26jun26_25MB.mp4" type="video/mp4">
 </video>
 
 ---

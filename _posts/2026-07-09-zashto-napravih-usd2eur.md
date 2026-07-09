@@ -2,7 +2,7 @@
 layout: post
 title: "Защо направих USD2EUR?"
 date: 2026-07-09
-categories: [Token, Свободен пазар, Evropedia, Economy, Politics]
+
 ---
 
 Направих **USD2EUR** не защото очаквам някой да го „помпа“.

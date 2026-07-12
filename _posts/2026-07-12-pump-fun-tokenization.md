@@ -6,7 +6,6 @@ categories: blockchain tokenization solana pumpfun
 tags: [Pump.fun, Solana, Tokenization, Blockchain, Bonding Curve]
 ---
 
-# Защо Pump.fun за токенизация
 
 На въпросът, защо всички мои проекти са през в Pump.fun, а не със собствен смарт договор, отговорът е следния.
 

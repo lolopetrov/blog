@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Green Transition и новата политическа икономия"
+title: "Green Transition и неокомунистическата политическа икономия"
 date: 2026-07-13
 categories: politics economy eu
 tags: [Green Transition, EU, ESG, CBDC, ECB]
 ---
 
-# Green Transition и новата политическа икономия
+
 
 Ето какво може да прочетем относно зелената диктатура- Green Transition -и нейните протежета, в един медиен слугинар. Как се упражнява и как налага зелен терор.
 

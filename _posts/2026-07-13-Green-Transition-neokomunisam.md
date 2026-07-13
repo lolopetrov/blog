@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Green Transition и неокомунистическата политическа икономия"
+title: "Green Transition, неокомунистическата политическа икономия"
 date: 2026-07-13
 categories: politics economy eu
 tags: [Green Transition, EU, ESG, CBDC, ECB]

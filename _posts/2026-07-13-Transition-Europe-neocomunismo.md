@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Електрификацията като нова политическа догма"
+title: "Електрификацията като нова политическа догма вЪв ЕСъ"
 date: 2026-07-13
 categories: politics economy eu
 tags: [Green Transition, Electrification, European Commission, Energy]

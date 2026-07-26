@@ -10,7 +10,7 @@ Green Transition в Dir.bg е платен раздел в медийния сл
 
 Не ми харесва идеята с линкове към други сайтове, но тук все пак е аргументът защо зелената кретения е пагубна. Премахване на всички зелени регулации, догми и причастия.
 
-[Статията](https://theobjective.com/elsubjetivo/opinion/2026-07-26/arder-por-devocion-articulo-arrunada/) го пояснява. :contentReference[oaicite:1]{index=1}
+[Статията](https://theobjective.com/elsubjetivo/opinion/2026-07-26/arder-por-devocion-articulo-arrunada/) го пояснява. Трябва преводач.
 
 Всякакви писари, щатни зелени мекотели, мокетни слугинари на колене и канцеларски регулатори трябва да бъдат изчегъртани.
 

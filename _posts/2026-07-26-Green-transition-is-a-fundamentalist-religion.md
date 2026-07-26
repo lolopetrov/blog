@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " Green Transition,зелената фундаменталистка религия. Как се унищожава природа в името на природата"
+title: " Green Transition, зелената фундаменталистка религия. Как се унищожава природа в името на природата"
 date: 2026-07-26
 categories: blog
 tags: [Green Transition, Europe, Regulation, Bitcoin, MiCA]

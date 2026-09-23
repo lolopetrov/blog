@@ -119,15 +119,19 @@ canvas {
   color: #fff;
 }
 
+/* ===== Support / Referral Links ===== */
+
 .support-links {
-  margin-top: 45px;
-  padding: 18px 20px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
+  margin-top: 50px;
+  padding: 20px 0;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
   font-size: 15px;
 }
 
 .support-links strong {
+  display: block;
+  margin-bottom: 10px;
   font-size: 17px;
 }
 
@@ -136,7 +140,7 @@ canvas {
 }
 
 .support-links a {
-  font-weight: bold;
+  font-weight: 600;
   text-decoration: none;
 }
 
@@ -145,6 +149,7 @@ canvas {
 }
 
 .support-disclosure {
+  margin-top: 12px !important;
   font-size: 12px;
   opacity: 0.65;
 }

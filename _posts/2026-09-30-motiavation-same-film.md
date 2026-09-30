@@ -15,7 +15,7 @@ tags:
 
 ## Повод за размисъл
 
-![Polymarket — Spain, Ceuta and migration](/assets/images/motiavation-ceuta-polymarket.png)
+![Polymarket — Spain, Ceuta and migration](/assets/videos/motiavation-ceuta-polymarket.png)
 
 *Polymarket, 30.09.2026*
 

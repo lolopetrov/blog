@@ -79,3 +79,6 @@ tags:
 [USD2EUR — btctoday100k.com](https://usd2eur.btctoday100k.com/)
 
 **Но нека видим.**
+
+**„Не по думите, а по делата ще ги познаете.“**
+
